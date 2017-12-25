@@ -12,5 +12,6 @@ Steps:
 <pre>chmod +x ./blockcron.sh
 nohup ./blockcron.sh &</pre>
 6. There is also a text file lastblock.txt which is used to saved the block height of the last block found and compare it when the script runs next time
+7. Lowest fee transaction in the block is selected based on transactions sorted in ascending order by "fees per kb". 
 
 Blockchair APIs are not reliable and may not work with 100% uptime. You can check with them about any issues related to API. Feel free to contact me if any questions: Telegram: @prayankgahlot Twitter: @prayankgahlot
