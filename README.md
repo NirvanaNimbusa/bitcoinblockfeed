@@ -4,7 +4,7 @@ Telegram Channel to get notifications about each Bitcoin block found and lowest 
 
 <p align="center"> <img src="https://github.com/prayank23/bitcoinblockfeed/blob/master/screenshot.jpg?raw=true" width="300" height="450"/> </p>
 
-Steps:
+
 
 1. Create a telegram bot using @BotFather, get the API key
 2. Create a public telegram channel, add the bot as administrator in channel which can post messages
